@@ -1,0 +1,14 @@
+artifact_uri: file:///G:/%D0%9C%D0%BE%D0%B9%20%D0%B4%D0%B8%D1%81%D0%BA/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/my_diploma_project/mlruns/0/f7f6358cf7cb4886a8b1b7cc4a560337/artifacts
+end_time: 1758118150933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7f6358cf7cb4886a8b1b7cc4a560337
+run_name: intelligent-eel-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758118150679
+status: 3
+tags: []
+user_id: user

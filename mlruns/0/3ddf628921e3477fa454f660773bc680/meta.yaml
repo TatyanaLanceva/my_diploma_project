@@ -1,0 +1,14 @@
+artifact_uri: file:///G:/%D0%9C%D0%BE%D0%B9%20%D0%B4%D0%B8%D1%81%D0%BA/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/my_diploma_project/mlruns/0/3ddf628921e3477fa454f660773bc680/artifacts
+end_time: 1758115956496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ddf628921e3477fa454f660773bc680
+run_name: capable-auk-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758115940027
+status: 3
+tags: []
+user_id: user

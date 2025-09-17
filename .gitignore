@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Project files
+/ruroberta_transaction_classifier/
+/labeled_memory.pkl
+/corrections_buffer.json
+/exact_matches.json
+/project_report.md
+
+# VS Code
+.vscode/
