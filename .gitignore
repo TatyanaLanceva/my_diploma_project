@@ -18,3 +18,7 @@ venv/
 
 # Jupyter Notebook files
 .ipynb_checkpoints/
+
+# Отчёты и выписки
+bank_statement.pdf
+*.pdf
