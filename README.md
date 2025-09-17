@@ -101,3 +101,10 @@ my_diploma_project/
 ├── corrections_buffer.json               # Буфер исправлений
 ├── exact_matches.json                    # База точных совпадений
 └── project_report.md                     # Автоматически сгенерированный отчет
+
+
+## Доступ к модели
+
+Файл модели `ruroberta_transaction_classifier/model.safetensors` слишком большой для загрузки на GitHub (лимит 100 МБ). Вы можете скачать его по следующей ссылке:
+
+[Скачать файл модели](https://drive.google.com/file/d/1CdaFZkQC1g6xcfKMqEACn5fBgXvvxf17/view?usp=sharing)
