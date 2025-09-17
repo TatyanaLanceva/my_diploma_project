@@ -1,17 +1,20 @@
 # Python
 __pycache__/
 *.pyc
+*.log
 
 # Virtual environment
 venv/
 .env
 
-# Project files
-/ruroberta_transaction_classifier/
-/labeled_memory.pkl
-/corrections_buffer.json
-/exact_matches.json
-/project_report.md
+# Model and data files that are too large to commit
+# If these are large, use Git LFS instead.
+# If they are small, delete these lines to commit them.
+*.pkl
+*.json
 
 # VS Code
 .vscode/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
